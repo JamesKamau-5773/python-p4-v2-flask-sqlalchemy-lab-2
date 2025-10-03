@@ -11,4 +11,4 @@
 - [x] Add SerializerMixin inheritance and serialize_rules to Customer, Item, Review
 - [x] Run pytest testing/serialization_test.py
 - [x] Run pytest to run all tests
-- [ ] Commit and push changes
+- [x] Commit and push changes
